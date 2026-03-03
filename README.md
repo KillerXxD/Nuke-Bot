@@ -34,7 +34,7 @@
 
 ### 2. Configure your bot
 Open `main.py` and replace:
-bot.run("YOUR_BOT_TOKEN")
+bot.run("ur token niga")
 with your actual bot token from the [Discord Developer Portal](https://discord.com/developers/applications).
 
 ### 3. Run the bot
